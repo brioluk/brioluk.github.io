@@ -103,7 +103,7 @@ Label_DBF39303_C651_E6DF_41CD_F34032B869B3.text = INTERAZIONI:
 ## Media
 
 ### Title
-map_BBECFF45_B6C2_1F46_41E3_F4668A0CEE4B.label = Agenda_Bolton_Welcome_on_board_new
+map_FC93D8A8_EAC6_82B3_41E9_F1D91424FEBC.label = Agenda_Bolton_Welcome_on_board_new
 panorama_B80E96A8_B6DE_21CE_41CD_5643B0C4B24F.label = Corner
 panorama_B83A55C0_B6DE_63BE_41E1_06AC94136520.label = Centrale
 panorama_B94BFCD4_B6DE_2146_41D7_6FB39BAF1D59.label = Booth 9
