@@ -5,7 +5,17 @@
 
 <body>
 
-	<object data="MR. NISSIM digital_EN.pdf#toolbar=0" type="application/pdf" width="100%" height="100%"></object>
+	<div id="viewer" style="width: 100%; height: 500px;"></div>
+	  <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
+	  <script>
+		const config = { 
+		  documentId: '337fbace-881a-40f4-90de-052afb17822a',
+		  darkMode: true, 
+		};
+		CloudPDF(config, document.getElementById('viewer')).then((instance) => {
+		  
+		});
+	  </script>
 
 </body>
 
