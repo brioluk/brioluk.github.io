@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-NF_SneakerXR2022_WebGL_MRTK-0.1";
 const contentToCache = [
     "Build/v01.loader.js",
-    "Build/v01.framework.js.gz",
-    "Build/v01.data.gz",
-    "Build/v01.wasm.gz",
+    "Build/v01.framework.js.unityweb",
+    "Build/v01.data.unityweb",
+    "Build/v01.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
